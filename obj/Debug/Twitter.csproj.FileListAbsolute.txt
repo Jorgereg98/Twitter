@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\ProyectoFinal\Twitter\Twitter\bin\Debug\Twitter.exe.config
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\ProyectoFinal\Twitter\Twitter\bin\Debug\Twitter.exe
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\ProyectoFinal\Twitter\Twitter\bin\Debug\Twitter.pdb
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\ProyectoFinal\Twitter\Twitter\obj\Debug\Twitter.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\ProyectoFinal\Twitter\Twitter\obj\Debug\Twitter.TwitterForm.resources
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\ProyectoFinal\Twitter\Twitter\obj\Debug\Twitter.Properties.Resources.resources
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\ProyectoFinal\Twitter\Twitter\obj\Debug\Twitter.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\ProyectoFinal\Twitter\Twitter\obj\Debug\Twitter.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\ProyectoFinal\Twitter\Twitter\obj\Debug\Twitter.exe
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\ProyectoFinal\Twitter\Twitter\obj\Debug\Twitter.pdb
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\ProyectoFinal\Twitter\Twitter\obj\Debug\Twitter.User_Controls.Home.resources
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\ProyectoFinal\Twitter\Twitter\obj\Debug\Twitter.User_Controls.Login.resources
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\ProyectoFinal\Twitter\Twitter\obj\Debug\Twitter.User_Controls.Register.resources
